@@ -1,2 +1,2 @@
-# rust-aoc-2019
-My Rust solutions for Advent of Code 2019
+# aoc-2019-rust
+My Advent of Code 2019 solutions, written to help me learn Rust!
